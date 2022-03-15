@@ -1,0 +1,1 @@
+# validar-a-forca-da-senha-com-JavaScript
